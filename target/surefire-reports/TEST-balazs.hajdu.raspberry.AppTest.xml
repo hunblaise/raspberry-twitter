@@ -1,66 +1,68 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="balazs.hajdu.raspberry.AppTest" time="0.003" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="balazs.hajdu.raspberry.AppTest" time="0.002" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
-    <property name="sun.boot.library.path" value="d:\hcom_env\jdk1.8.0_45\bin"/>
-    <property name="java.vm.version" value="25.45-b02"/>
+    <property name="sun.boot.library.path" value="f:\apps\jdk1.8.0_65\jre\bin"/>
+    <property name="java.vm.version" value="25.65-b01"/>
+    <property name="user.country.format" value="HU"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="java.vendor.url" value="http://java.oracle.com/"/>
     <property name="path.separator" value=";"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
-    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) Client VM"/>
     <property name="file.encoding.pkg" value="sun.io"/>
     <property name="user.script" value=""/>
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
-    <property name="sun.os.patch.level" value="Service Pack 1"/>
+    <property name="sun.os.patch.level" value=""/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="d:\misc_workspace\raspberry"/>
-    <property name="java.runtime.version" value="1.8.0_45-b15"/>
+    <property name="user.dir" value="f:\Egyetem\BeagyazottRendszerek\raspberry-twitter"/>
+    <property name="java.runtime.version" value="1.8.0_65-b17"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="java.endorsed.dirs" value="d:\hcom_env\jdk1.8.0_45\lib\endorsed"/>
-    <property name="os.arch" value="amd64"/>
-    <property name="java.io.tmpdir" value="C:\Users\Balazs_Hajdu@epam.com\AppData\Local\Temp\"/>
+    <property name="java.endorsed.dirs" value="f:\apps\jdk1.8.0_65\jre\lib\endorsed"/>
+    <property name="os.arch" value="x86"/>
+    <property name="java.io.tmpdir" value="C:\Users\HAJDUB~1\AppData\Local\Temp\"/>
     <property name="line.separator" value="
 "/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="user.variant" value=""/>
-    <property name="os.name" value="Windows 7"/>
-    <property name="classworlds.conf" value="d:\hcom_env\apache-maven-3.2.5\bin\..\bin\m2.conf"/>
-    <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="d:\hcom_env\jdk1.8.0_45\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\apps\python\;D:\apps\python\Scripts;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files (x86)\MySQL\MySQL Utilities 1.4.3\;C:\Program Files (x86)\MySQL\MySQL Utilities 1.4.3\Doctrine extensions for PHP\;D:\apps\Git\Git\cmd;%TORTOISE_HOME%\bin;%ANT_HOME%\bin;%MAVEN_HOME%\bin;%CATALINA_HOME%\bin;%JAVA_HOME%\bin;D:\hcom_env\nodejs\;d:\apps\Microsoft SQL Serverx86\100\Tools\Binn\VSShell\Common7\IDE\;d:\apps\Microsoft SQL Serverx86\100\Tools\Binn\;d:\apps\Microsoft SQL Server\100\Tools\Binn\;d:\apps\Microsoft SQL Serverx86\100\DTS\Binn\;C:\Program Files (x86)\Skype\Phone\;d:\hcom_env\apache-maven-3.2.5\bin;d:\_env\ant-1.8.1\bin;C:\Program Files\7-Zip;d:\apps\python\;C:\Users\Balazs_Hajdu@epam.com\AppData\Roaming\npm;d:\hcom_env\jdk1.8.0_45\bin;."/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="F:\apps\apache-maven-3.2.3\bin\m2.conf"/>
+    <property name="sun.jnu.encoding" value="Cp1250"/>
+    <property name="java.library.path" value="f:\apps\jdk1.8.0_65\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;F:\apps\python\;F:\apps\python\Scripts;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\2.0\bin\x64;C:\Program Files\Microsoft\Web Platform Installer\;C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v1.0\;C:\Program Files (x86)\Windows Kits\8.0\Windows Performance Toolkit\;C:\Program Files\Microsoft SQL Server\110\Tools\Binn\;F:\Program Files\MATLAB\R2013b\runtime\win64;F:\Program Files\MATLAB\R2013b\bin;C:\Program Files (x86)\IVI Foundation\IVI\bin;C:\Program Files\IVI Foundation\IVI\bin;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin\;C:\Program Files\IVI Foundation\VISA\Win64\Bin\;C:\Program Files (x86)\IVI Foundation\VISA\WinNT\Bin;F:\Program Files\National Instruments\Motion Assistant\bin\mxwplugins;F:\Program Files\National Instruments\Shared\System\;C:\Program Files (x86)\Microsoft SQL Server\90\Tools\binn\;%JAVA_HOME%\bin;F:\apps\Git\cmd;C:\MinGW\bin;C:\Program Files (x86)\Skype\Phone\;%CATALINA%;F:\apps\apache-maven-3.2.3\bin;."/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.class.version" value="52.0"/>
-    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="os.version" value="6.1"/>
-    <property name="user.home" value="C:\Users\Balazs_Hajdu@epam.com"/>
+    <property name="sun.management.compiler" value="HotSpot Client Compiler"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\Hajdu Balazs"/>
     <property name="user.timezone" value="Europe/Prague"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="java.specification.version" value="1.8"/>
-    <property name="file.encoding" value="Cp1252"/>
-    <property name="user.name" value="Balazs_Hajdu"/>
-    <property name="java.class.path" value="d:\hcom_env\apache-maven-3.2.5\bin\..\boot\plexus-classworlds-2.5.2.jar"/>
+    <property name="file.encoding" value="Cp1250"/>
+    <property name="user.name" value="Hajdu Balazs"/>
+    <property name="java.class.path" value="F:\apps\apache-maven-3.2.3\boot\plexus-classworlds-2.5.1.jar"/>
     <property name="java.vm.specification.version" value="1.8"/>
-    <property name="sun.arch.data.model" value="64"/>
-    <property name="java.home" value="d:\hcom_env\jdk1.8.0_45"/>
+    <property name="sun.arch.data.model" value="32"/>
+    <property name="java.home" value="f:\apps\jdk1.8.0_65\jre"/>
     <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="en"/>
+    <property name="user.language.format" value="hu"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
     <property name="java.vm.info" value="mixed mode"/>
-    <property name="java.version" value="1.8.0_45"/>
-    <property name="java.ext.dirs" value="d:\hcom_env\jdk1.8.0_45\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
-    <property name="sun.boot.class.path" value="d:\hcom_env\jdk1.8.0_45\lib\resources.jar;d:\hcom_env\jdk1.8.0_45\lib\rt.jar;d:\hcom_env\jdk1.8.0_45\lib\sunrsasign.jar;d:\hcom_env\jdk1.8.0_45\lib\jsse.jar;d:\hcom_env\jdk1.8.0_45\lib\jce.jar;d:\hcom_env\jdk1.8.0_45\lib\charsets.jar;d:\hcom_env\jdk1.8.0_45\lib\jfr.jar;d:\hcom_env\jdk1.8.0_45\classes"/>
-    <property name="sun.stderr.encoding" value="cp437"/>
+    <property name="java.version" value="1.8.0_65"/>
+    <property name="java.ext.dirs" value="f:\apps\jdk1.8.0_65\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="f:\apps\jdk1.8.0_65\jre\lib\resources.jar;f:\apps\jdk1.8.0_65\jre\lib\rt.jar;f:\apps\jdk1.8.0_65\jre\lib\sunrsasign.jar;f:\apps\jdk1.8.0_65\jre\lib\jsse.jar;f:\apps\jdk1.8.0_65\jre\lib\jce.jar;f:\apps\jdk1.8.0_65\jre\lib\charsets.jar;f:\apps\jdk1.8.0_65\jre\lib\jfr.jar;f:\apps\jdk1.8.0_65\jre\classes"/>
+    <property name="sun.stderr.encoding" value="cp852"/>
     <property name="java.vendor" value="Oracle Corporation"/>
-    <property name="maven.home" value="d:\hcom_env\apache-maven-3.2.5\bin\.."/>
+    <property name="maven.home" value="F:\apps\apache-maven-3.2.3"/>
     <property name="file.separator" value="\"/>
     <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
-    <property name="sun.stdout.encoding" value="cp437"/>
+    <property name="sun.stdout.encoding" value="cp852"/>
     <property name="sun.desktop" value="windows"/>
-    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
   </properties>
-  <testcase classname="balazs.hajdu.raspberry.AppTest" name="testApp" time="0.003"/>
+  <testcase classname="balazs.hajdu.raspberry.AppTest" name="testApp" time="0.002"/>
 </testsuite>
