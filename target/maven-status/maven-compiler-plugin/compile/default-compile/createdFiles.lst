@@ -1,2 +1,4 @@
-balazs\hajdu\raspberry\App$1.class
+balazs\hajdu\raspberry\domain\TwitterClient.class
 balazs\hajdu\raspberry\App.class
+balazs\hajdu\raspberry\domain\Led.class
+balazs\hajdu\raspberry\domain\Sensor.class
